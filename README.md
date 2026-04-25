@@ -10,7 +10,7 @@ This project involves an end-to-end data analysis of sales records using Power B
 - DAX Calculations: Developed measures for total revenue and performance tracking.
 
 ## Dashboard Preview
-![Dashboard Screenshot](image.png)
+![Dashboard Screenshot](Dashboard.png)
 *(Note: Replace "image.png" with the exact name of your uploaded screenshot file)*
 
 ## Tools Used:
